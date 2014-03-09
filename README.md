@@ -2,11 +2,11 @@
 
 I. Definitions
 
-	A. Admittance to Membership
-
-		1. “members meeting” shall also include annual meetings and general meetings.
+	1. “members meeting” shall also include annual meetings and general meetings.
 
 II. Membership
+
+	A. Admittance to Membership
 
 		1. Persons wishing to become members of KwartzLab must file an application with the Board. The Board shall determine the form of the application. The Board shall notify the membership via the “Members” mailing list when they receive such an application.
 

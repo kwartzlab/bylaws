@@ -1,6 +1,7 @@
 # Corporation – Bylaws
 
 I. Definitions
+
 	A. Admittance to Membership
 
 		1. “members meeting” shall also include annual meetings and general meetings.

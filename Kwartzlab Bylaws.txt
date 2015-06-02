@@ -66,37 +66,15 @@ C. Membership Hiatus
 
 D. Suspension or Termination of Memberships
 
-    1. KwartzLab may suspend or terminate the membership of a member
-       by passing a special resolution (2/3 vote) at a general meeting
-       duly called for that purpose. A suspended member shall have no
-       privileges of membership during the time of the suspension. All
-       dues shall continue to be assessed for suspended members.
-
-    2. A resolution under paragraph 1 is not valid unless:
-
-        (a) Prior written notice is given to the member setting forth
-            the grounds on which the suspension or termination is
-            sought;
-
-        (b) This notice is given to the member no fewer than 10
-            calendar days before the general meeting called to
-            consider the resolution of suspension or termination;
-
-        (c) an opportunity is given to the member to appear, either
-            personally or by a person authorized under the Law Society
-            Act to represent the member, to make submissions at the
-            general meeting called to consider the resolution of
-            suspension or termination of that member.
-
-    3. Suspension for Minor Infractions
-
-        (a) The Board of Directors may suspend a member for a term of
-            no greater than one month by resolution at a meeting of
-            the Board duly called for that purpose if:
+    1. Suspension for Minor Infractions
+  
+      (a) The Board of Directors may suspend a member for a term of
+          no greater than one month by resolution at a meeting of
+          the Board duly called for that purpose if:
 
             i.   The member is in arrears on their monthly dues.
 
-        (b) A resolution under sub-paragraph a. is not valid unless:
+      (b) A resolution under sub-paragraph a. is not valid unless:
 
             i.   The member is given notice setting forth the grounds
                  on which the suspension is sought (email notice shall
@@ -104,26 +82,109 @@ D. Suspension or Termination of Memberships
 
             ii.  This notice is given to the member no fewer than five
                  calendar days before the meeting of the board of
-                 directors called to consider the resolution;
+                 directors is called to consider the resolution;
 
-            iii. an opportunity is given to the member to appear,
+            iii. An opportunity is given to the member to appear,
                  either personally or by a person authorized under the
                  Law Society Act to represent the member, to make
                  submissions at the meeting of the board called to
                  consider the resolution.
 
-        (c) If the member suspended under this paragraph rectifies all
-            the condition(s) in sub-paragraph a) for which they were
-            suspended, the Board shall forthwith take any action
-            required to restore that member's status.
+      (c) If the member suspended under this paragraph rectifies all
+          the condition(s) in sub-paragraph a) for which they were
+          suspended, the Board shall forthwith take any action
+          required to restore that member's status.
+          
+    2. Suspension for Major Infractions
+  
+      (a) The Board of Directors may suspend a member for a term of
+          no greater than one month by resolution at a meeting of
+          the Board duly called for that purpose if:
 
-    4. Should a member not pay their dues for at least two consecutive
-       months, then after repeatedly attempting to contact said member
-       by all methods of contact the member has provided for the
-       membership register, including at least once by pre-paid
-       registered mail to the address in the membership register, the
-       Board may by resolution declare the membership
-       abandoned. Abandonded memberships are considered terminated.
+            i.   The member engages in conduct outlined in the 
+                 "Inappropriate Behaviours" section of the Kwartzlab 
+                 Code of Conduct.
+
+      (b) A resolution under sub-paragraph a. is not valid unless:
+
+            i.   The member is given notice setting forth the grounds
+                 on which the suspension is sought (email notice shall
+                 be sufficient);
+
+            ii.  This notice is given to the member no fewer than five
+                 calendar days before the meeting of the board of
+                 directors is called to consider the resolution;
+
+            iii. An opportunity is given to the member to appear,
+                 either personally or by a person authorized under the
+                 Law Society Act to represent the member, to make
+                 submissions at the meeting of the board called to
+                 consider the resolution.
+               
+    3. Member Privileges During Suspension
+  
+     A suspended member shall have no privileges of membership during 
+     the time of the suspension. All dues shall continue to be 
+     assessed for suspended members.
+     
+    4. Termination of Members for Minor Infractions
+  
+        (a) KwartzLab may terminate the membership of a member, for 
+          reasons related to minor infractions listed in paragraph 1, 
+          subparagraph a, which remain unresolved after 1 month, by 
+          means of a resolution passed by the Board of Directors.
+               
+    5. Termination of Members for Major Infractions
+  
+        (a) KwartzLab may terminate the membership of a member, for 
+            reasons related to repeated or grevious infractions listed 
+            in paragraph 2, subparagraph a, by means of either: 
+       
+            i.   A special resolution passed by 2/3 of the voting 
+                 membership present at a general meeting duly called 
+                 for that purpose; OR
+         
+            ii.  A special resolution passed by 2/3 of the board at a  
+                 meeting duly called for that purpose.
+              
+    6. Validity of Terminations
+  
+      A resolution made under paragraphs 4 or 5 is not valid unless:
+      
+            i.   The member is given notice settng forth the grounds 
+                 on which termination is sought, by both email and
+                 lettermail.
+                
+            ii.  The notice is given to the member no fewer than 
+                 fifteen days before the meeting of the board of 
+                 directors or the membership is called to consider the 
+                 resolution.
+                
+            iii. The member receiving the notice shall be entitled to 
+                 give the Board a written submission opposing the 
+                 termination not less than five days before the end of 
+                 the fifteen-day period. The written submission shall 
+                 be considered by the Board or the membership before 
+                 making a final decision regarding termination of 
+                 membership.
+                
+    7. Appealing a Termination Resolution
+  
+        (a) Anyone who has had their membership status terminated 
+            under  paragraphs 4 or 5 may appeal the decision by 
+            written letter submitted to the Secretary of the 
+            Corporation or to the Board of Directors within 30 days of 
+            the passing of the termination resolution.
+           
+        (b) An appeal of a termination resolution will be reviewed 
+            by a committee appointed by the board to the task. 
+           
+        (c) The terminated member will be given an opportunity of not 
+            less than 10 days to provide the appeal committee with a 
+            written submission detailing the grounds for their appeal. 
+            The written submission will be considered by the appeal 
+            committee before making a decision. The decision of the 
+            appeal committee will be considered final.
 
 III. BOARD OF DIRECTORS AND OFFICERS OF THE CORPORATION
 

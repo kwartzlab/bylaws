@@ -397,3 +397,11 @@ V. FINANCIAL
 
     3. The financial year of KwartzLab will end on December 31st of
        each year.
+       
+VI. CODE OF CONDUCT
+
+    1. The corporation has a Code of Conduct.
+    
+    2. The scope of the Code of Conduct is specified by the Code of Conduct.
+    
+    3. Changes to the Code of Conduct are governed by the same rules as changes to the Bylaws.

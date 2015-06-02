@@ -118,4 +118,6 @@ Changes to the Code of Conduct are governed by the Corporaton's Bylaws.
 
 12. License Information and Attribution
 
-This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike License, derived from the University of Waterloo's Computer Science Club's Code of Conduct [http://csclub.uwaterloo.ca/about/constitution], and the Open Source Bridge's Code of Conduct [http://opensourcebridge.org/about/code-of-conduct/].
+This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike License, derived from the University of 
+Waterloo's Computer Science Club's Code of Conduct [http://csclub.uwaterloo.ca/about/constitution], and the Open Source 
+Bridge's Code of Conduct [http://opensourcebridge.org/about/code-of-conduct/].

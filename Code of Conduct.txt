@@ -52,13 +52,13 @@ aren't unwittingly exposed to such imagery.
 4. Failing to Meet Expected Behaviour
 
 Open and cooperative communication is a key virtue within the Kwartzlab community. If you experience or witness somebody failing 
-to meet expected bahviour in a notable way, chances are it was an oversight. If you feel safe and comfortable doing so, consider 
+to meet expected behaviour in a notable way, chances are it was an oversight. If you feel safe and comfortable doing so, consider 
 addressing it with the individual directly or on the members' mailing list -- they may just need a gentle reminder. If, for any 
 reason, you are not able to do so, please contact the board of directors with your concern.
   
 5. Unacceptable Behaviour
 
-The following behaviours are considered to be detrimental to kwartzlab's goal of being a safe, inclusive, and productive space:
+The following behaviours are considered to be detrimental to Kwartzlab's goal of being a safe, inclusive, and productive space:
 
   * Violence, threats of violence or violent language directed against another person.
   * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
@@ -69,15 +69,16 @@ The following behaviours are considered to be detrimental to kwartzlab's goal of
     sexual advances.
   * Deliberate intimidation, stalking or following (online or in person).
   * Advocating for, or encouraging, any of the above behavior.
-  * Sustained disruption of community events, including talks and presentations, or another member's normal use of kwartzlab 
+  * Sustained disruption of community events, including talks and presentations, or another member's normal use of Kwartzlab 
     space or resources. 
 
 6. Experiencing Unacceptable Behaviour
 
-If you are subject to or witness unacceptable behavior, please notify a Director as soon as possible. If a director is not on 
+If you are subject to or witness unacceptable behavior, please notify a Director as soon as possible. If a Director is not on 
 the premise, one can be reached by emailing bod@kwartzlab.ca. A contact list can also be found [WE SHOULD PUT ONE SOMEWHERE].
 
-Directors can also help you engage with local law enforcement.
+If you are attending an in-person event at Kwartzlab when you experience unacceptable behaviour, you can also talk to the event 
+organizer.
 
 7. Consequences of Unacceptable Behaviour
 
@@ -100,8 +101,11 @@ persuant to the Corporation's bylaws.
 Kwartzlab recognizes that all guests and members have a right to privacy, and will handle complaints confidentially. 
 
 Information that will be kept in Corporate records and available to Directors in the future will include: the date the complaint 
-was made, the name of the subject of the complaint, a summary description of the complaint, the name of the handling Director(s), 
-the response or decision made on the complaint, the date the response or decision on the complaint was made. 
+was made, the name of the subject of the complaint, a summary description of the complaint, the name of the handling Director(s) 
+or Officer(s), the response or decision made on the complaint, the date the response or decision on the complaint was made. 
+
+Both the individual who placed the complaint and the subject of the complaint will be notified of any outcome, decision, or 
+response.
 
 10. Scope
 
@@ -111,8 +115,7 @@ community venues (online and in-person) as well as in all one-on-one communicati
 11. Additional Information
 
 Additionally, the Board of Directors are available to help Kwartzlab members engage with local law enforcement or to otherwise 
-help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organizers will also provide 
-escorts as desired by the person experiencing distress.
+help those experiencing unacceptable behaviour feel safe. 
 
 Changes to the Code of Conduct are governed by the Corporaton's Bylaws.
 

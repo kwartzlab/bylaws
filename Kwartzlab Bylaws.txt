@@ -151,9 +151,8 @@ D. Suspension or Termination of Memberships
   
       A resolution made under paragraphs 4 or 5 is not valid unless:
       
-            i.   The member is given notice settng forth the grounds 
-                 on which termination is sought, by both email and
-                 lettermail.
+            i.   The member is given notice in writing settng forth 
+                 the grounds on which termination is sought.
                 
             ii.  The notice is given to the member no fewer than 
                  fifteen days before the meeting of the board of 

@@ -16,8 +16,9 @@ the steps to adress unacceptable behaviour.
 2. Kwartzlab Culture & Maker Citizenship
 
 A supplemental goal of this Code of Conduct is to increase maker culture & citzenship by encouraging participants to recognize 
-and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality 
-and abuses of power that exist in society.
+and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in 
+which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in 
+society.
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants 
 to contribute to the fullest extent, please recognize their efforts.
@@ -87,7 +88,8 @@ The following behaviours are considered to be detrimental to Kwartzlab's goal of
 If you are subject to or witness unacceptable behavior, please notify a Director as soon as possible. If a Director is not on 
 the premise, one can be reached by emailing bod@kwartzlab.ca. A contact list can also be found [WE SHOULD PUT ONE SOMEWHERE].
 
-If you are attending an in-person event at Kwartzlab when you experience unacceptable behaviour, you can also talk to the event  organizer.
+If you are attending an in-person event at Kwartzlab when you experience unacceptable behaviour, you can also talk to the event 
+organizer.
 
 7. Consequences of Unacceptable Behaviour
 
@@ -118,8 +120,8 @@ response(s).
 
 10. Scope
 
-We expect all Kwartzlab participants (members, event organizers sponsors, and other guests) to abide by this Code of Conduct in all 
-community venues (online and in-person) as well as in all one-on-one communications pertaining to Kwartzlab business. 
+We expect all Kwartzlab participants (members, event organizers sponsors, and other guests) to abide by this Code of Conduct in 
+all community venues (online and in-person) as well as in all one-on-one communications pertaining to Kwartzlab business. 
 
 11. Additional Information
 

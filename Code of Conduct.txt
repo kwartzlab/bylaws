@@ -1,0 +1,137 @@
+Kwartzlab Code of Conduct
+
+1. Purpose
+
+One of the primary goals of Kwartzlab is the inclusion and support of all members of the greater Waterloo Region community who
+are interested in all manner of making, hacking, and DIY culture. As such, we are committed to providing a friendly, safe, 
+and welcoming environment for all, regardless of gender indentification & expression, sexual orientation, ability, ethnicity, 
+socio-economic status, age, religion or lack thereof.
+
+We invite all those who participate in our events and who communicate with our organization at large to help us create a safe 
+and positive experience for everyone involved.
+
+We have outlined a code of conduct to highlight our expectations for all individuals who participate in our space, as well as 
+the steps to adress unacceptable behaviour.
+
+2. Kwartzlab Culture & Maker Citizenship
+
+A supplemental goal of this Code of Conduct is to increase maker culture & citzenship by encouraging participants to recognize 
+and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in 
+which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in 
+society.
+
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants 
+to contribute to the fullest extent, please recognize their efforts.
+
+3. Expected Behaviour
+
+The following is expected of all members and guests in Kwartzlab space, or representing Kwartzlab at third party and community 
+events:
+
+  * Participate in an authentic and active way which helps further our raison d’etre [http://www.kwartzlab.ca/corporation/]. 
+  * Exercise consideration and respect in your speech and actions. Attempt to engage in collaboration rather than conflict when 
+    dealing with others. 
+  * Be mindful of your surroundings and of your fellow participants, and be careful with both lab and other peoples' property. 
+    Many of the tools and projects in our space are easily damaged through mishandling. Mindfulness includes:
+    
+    - follow posted notices regarding tool and resource use;
+    
+    - clean up your workspace and stow away any projects or materials when not in use;
+    
+    - don't interfere with another member's project or use of the space;
+    
+    - communicate with other members and achieve a consensus before engaging in any activity which will diminish other members' 
+    safe use of the space. Examples of such activities include: working on projects which involve sexual or violent imagery; 
+    working with noxious materials which reduce air quality in the space; working on or storing large projects which unreasonably 
+    reduce the usable space in Kwartzlab.
+    
+A Note on Projects with Mature Themes
+
+Kwartzlab does not censor or restrict the sorts of projects members may work on in the lab, as long as they are legal under 
+Canadian law. In order to ensure the space remains safe and welcoming for all members, we expect any member who is working on 
+a project which involves explicitly sexual or violent imagery to take appropriate steps ensuring that other members and guests 
+aren't unwittingly exposed to such imagery. 
+  
+4. Failing to Meet Expected Behaviour
+
+Open and cooperative communication is a key virtue within the Kwartzlab community. If you experience or witness somebody failing 
+to meet expected behaviour in a notable way, chances are it was an oversight. If you feel safe and comfortable doing so, consider 
+addressing it with the individual directly or on the members' mailing list -- they may just need a gentle reminder. If, for any 
+reason, you are not able to do so, please contact the board of directors with your concern.
+  
+5. Unacceptable Behaviour
+
+The following behaviours are considered to be detrimental to Kwartzlab's goal of being a safe, inclusive, and productive space:
+
+  * Violence, threats of violence or violent language directed against another person.
+  
+  * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+  
+  * Posting or displaying sexually explicit or violent material.
+  
+  * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+  
+  * Inappropriate physical contact. You should have someone’s consent before touching them.
+  
+  * Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcomed 
+    sexual advances.
+  
+  * Deliberate intimidation, stalking or following (online or in person).
+  
+  * Advocating for, or encouraging, any of the above behavior.
+  
+  * Sustained disruption of community events, including talks and presentations, or another member's normal use of Kwartzlab 
+    space or resources. 
+
+6. Experiencing Unacceptable Behaviour
+
+If you are subject to or witness unacceptable behavior, please notify a Director as soon as possible. If a Director is not on 
+the premise, one can be reached by emailing bod@kwartzlab.ca. A contact list can also be found near the board locker in the front room.
+
+If you are attending an in-person event at Kwartzlab when you experience unacceptable behaviour, you can also talk to the event 
+organizer.
+
+7. Consequences of Unacceptable Behaviour
+
+Unacceptable behaviour from anybody in Kwartzlab space will not be tolerated. Anyone asked to stop engaging in unacceptable 
+behaviour is expected to comply immediately.
+
+Anyone who does not immediately cease unacceptable behaviour, once asked, may be removed from the space immediately. 
+
+If the unacceptable behaviour is ongoing or especially grievous, a more formal disciplinary action may be sought pursuant to 
+our bylaws, including suspension or termination of membership. Non-member guests may be banned from the premise and future 
+Kwartzlab events.
+
+8. Addressing Grievances
+
+If a membership is terminated as the result of a Code of Conduct complaint, the terminated member may appeal the decision 
+pursuant to the Corporation's bylaws.
+
+9. Confidentiality
+
+Kwartzlab recognizes that all guests and members have a right to privacy, and will handle complaints confidentially. 
+
+Information that will be kept in Corporate records and available to Directors in the future will include: the date the complaint 
+was made, the name of the subject of the complaint, a summary description of the complaint, the name of the handling Director(s) 
+or Officer(s), the response or decision made on the complaint, the date the response or decision on the complaint was made. 
+
+Both the individual who placed the complaint and the subject of the complaint will be notified of any outcome(s), decision(s), or 
+response(s).
+
+10. Scope
+
+We expect all Kwartzlab participants (members, event organizers sponsors, and other guests) to abide by this Code of Conduct in 
+all community venues (online and in-person) as well as in all one-on-one communications pertaining to Kwartzlab business. 
+
+11. Additional Information
+
+Additionally, the Board of Directors is available to help Kwartzlab members engage with local law enforcement or to otherwise 
+help those experiencing unacceptable behaviour to feel safe. 
+
+Changes to the Code of Conduct are governed by the Corporaton's Bylaws.
+
+12. License Information and Attribution
+
+This Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike License, derived from the University of 
+Waterloo's Computer Science Club's Code of Conduct [http://csclub.uwaterloo.ca/about/constitution], and the Open Source 
+Bridge's Code of Conduct [http://opensourcebridge.org/about/code-of-conduct/].
